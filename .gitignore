@@ -2,4 +2,4 @@ __pycache__
 .vscode
 .ipynb_checkpoints
 *.db
-*.ipynb
+.DS_Store
