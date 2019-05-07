@@ -1,0 +1,1339 @@
+,0,1,2,3,>4
+county of Alabama,8.0,47.0,0.0,0.0,0.0
+family name,10.0,37.0,6.0,1.0,1.0
+like a city,25.0,27.0,2.0,1.0,0.0
+designation for an administrative territorial entity,11.0,23.0,13.0,1.0,7.0
+class (set theory),8.0,22.0,12.0,5.0,8.0
+disease,26.0,22.0,5.0,1.0,1.0
+city of the United States,33.0,22.0,0.0,0.0,0.0
+county of Tennessee,26.0,21.0,6.0,1.0,1.0
+fictional humanoid,26.0,21.0,6.0,1.0,1.0
+legal person,11.0,20.0,10.0,3.0,11.0
+subject,9.0,20.0,12.0,2.0,12.0
+,11.0,20.0,10.0,3.0,11.0
+juridical person,11.0,20.0,10.0,3.0,11.0
+institution,18.0,19.0,11.0,1.0,6.0
+fictional character,24.0,19.0,8.0,2.0,2.0
+transport infrastructure,12.0,19.0,10.0,6.0,8.0
+physical system,12.0,19.0,10.0,6.0,8.0
+health problem,24.0,19.0,8.0,2.0,2.0
+absence,24.0,19.0,8.0,2.0,2.0
+third-level administrative country subdivision,27.0,19.0,4.0,4.0,1.0
+infrastructure,12.0,19.0,10.0,6.0,8.0
+mathematical object,7.0,19.0,13.0,8.0,8.0
+temporal entity,27.0,19.0,4.0,4.0,1.0
+disposition,24.0,19.0,8.0,2.0,2.0
+fictional organism,24.0,19.0,8.0,2.0,2.0
+item with given name property,24.0,19.0,8.0,2.0,2.0
+fictional creature,24.0,19.0,8.0,2.0,2.0
+property,21.0,18.0,7.0,4.0,5.0
+phenomenon,24.0,18.0,7.0,3.0,3.0
+operation point,18.0,18.0,7.0,6.0,6.0
+given name,31.0,17.0,4.0,3.0,0.0
+male given name,32.0,17.0,5.0,1.0,0.0
+,29.0,17.0,4.0,4.0,1.0
+water area,31.0,17.0,3.0,3.0,1.0
+county of Georgia,37.0,16.0,2.0,0.0,0.0
+monitoring station,37.0,16.0,2.0,0.0,0.0
+weather station,38.0,16.0,1.0,0.0,0.0
+county or county-equivalent,5.0,16.0,11.0,6.0,17.0
+legal fact,26.0,16.0,10.0,2.0,1.0
+dialect,35.0,15.0,5.0,0.0,0.0
+county,6.0,15.0,12.0,5.0,17.0
+intellectual work,14.0,15.0,8.0,5.0,13.0
+county of the United States,6.0,15.0,12.0,5.0,17.0
+educational institution,27.0,15.0,7.0,3.0,3.0
+landform,17.0,15.0,9.0,3.0,11.0
+educational organization,27.0,15.0,7.0,3.0,3.0
+geomorphological unit,17.0,15.0,9.0,3.0,11.0
+river,39.0,14.0,1.0,0.0,1.0
+administrative territorial entity of Wisconsin,23.0,14.0,5.0,6.0,7.0
+multi-organism behavior,40.0,14.0,1.0,0.0,0.0
+exchange,40.0,14.0,1.0,0.0,0.0
+civil parish,35.0,14.0,2.0,2.0,2.0
+long-distance trail,10.0,14.0,10.0,4.0,17.0
+second-level administrative country subdivision,5.0,14.0,13.0,5.0,18.0
+town of the United States,15.0,14.0,7.0,5.0,14.0
+administrative territorial entity of a specific level,5.0,14.0,10.0,5.0,21.0
+sports team,31.0,14.0,6.0,1.0,3.0
+census-designated place,11.0,13.0,6.0,8.0,17.0
+multi-organism process,41.0,13.0,1.0,0.0,0.0
+census place,11.0,13.0,6.0,8.0,17.0
+energy transfer,40.0,13.0,2.0,0.0,0.0
+classification scheme,14.0,13.0,14.0,3.0,11.0
+property,11.0,13.0,13.0,8.0,10.0
+category of being,11.0,13.0,13.0,8.0,10.0
+representation,11.0,13.0,13.0,8.0,10.0
+mental representation,11.0,13.0,13.0,8.0,10.0
+quality,11.0,13.0,13.0,8.0,10.0
+natural geographic entity,14.0,13.0,14.0,3.0,11.0
+concept,11.0,13.0,13.0,8.0,10.0
+process,37.0,13.0,2.0,3.0,0.0
+arrangement,34.0,13.0,4.0,3.0,1.0
+inconstancy,34.0,13.0,4.0,3.0,1.0
+song,32.0,13.0,6.0,2.0,2.0
+sports location,14.0,12.0,9.0,3.0,17.0
+school district,31.0,12.0,9.0,2.0,1.0
+mine,40.0,12.0,3.0,0.0,0.0
+astronomical object type,42.0,12.0,1.0,0.0,0.0
+bibliography,43.0,12.0,0.0,0.0,0.0
+town,15.0,12.0,9.0,3.0,16.0
+administrative territorial entity of a state of the United States,1.0,12.0,11.0,13.0,18.0
+natural physical object,21.0,12.0,9.0,3.0,10.0
+Breed,21.0,12.0,9.0,3.0,10.0
+island,18.0,12.0,8.0,4.0,13.0
+factory,42.0,12.0,1.0,0.0,0.0
+hiking trail,14.0,12.0,9.0,3.0,17.0
+creative work,27.0,12.0,6.0,4.0,6.0
+nonprofit organization,33.0,12.0,6.0,1.0,3.0
+rule,42.0,12.0,1.0,0.0,0.0
+linguistic unit,10.0,12.0,24.0,6.0,3.0
+rail infrastructure,37.0,12.0,2.0,2.0,2.0
+municipal corporation,2.0,11.0,7.0,4.0,31.0
+name,10.0,11.0,26.0,5.0,3.0
+emic unit,10.0,11.0,24.0,6.0,4.0
+bionym,10.0,11.0,26.0,5.0,3.0
+word,10.0,11.0,26.0,5.0,3.0
+part of speech,10.0,11.0,26.0,5.0,3.0
+name,10.0,11.0,22.0,8.0,4.0
+content,35.0,11.0,5.0,2.0,2.0
+physico-geographical object,27.0,11.0,7.0,4.0,6.0
+political organisation,2.0,11.0,7.0,4.0,31.0
+scholarly work,43.0,11.0,1.0,0.0,0.0
+single-family detached home,34.0,11.0,6.0,3.0,1.0
+scalar,44.0,11.0,0.0,0.0,0.0
+mental object,10.0,11.0,24.0,6.0,4.0
+municipality,2.0,11.0,7.0,4.0,31.0
+administrative territorial entity of Italy,16.0,11.0,17.0,7.0,4.0
+languoid class,35.0,11.0,6.0,1.0,2.0
+publication,33.0,11.0,5.0,3.0,3.0
+genre,33.0,11.0,5.0,3.0,3.0
+biography,38.0,11.0,3.0,2.0,1.0
+album,34.0,11.0,6.0,3.0,1.0
+biographical work,36.0,11.0,2.0,1.0,5.0
+government,2.0,11.0,7.0,4.0,31.0
+gifting,16.0,11.0,17.0,7.0,4.0
+noun phrase,10.0,11.0,26.0,5.0,3.0
+human behaviour,44.0,11.0,0.0,0.0,0.0
+noun,10.0,11.0,26.0,5.0,3.0
+local government,2.0,11.0,7.0,4.0,31.0
+lexical item,10.0,11.0,26.0,5.0,3.0
+anthroponym,10.0,11.0,26.0,5.0,3.0
+parish of Victoria,44.0,11.0,0.0,0.0,0.0
+United States Supreme Court decision,33.0,11.0,9.0,2.0,0.0
+public educational institution,40.0,11.0,2.0,2.0,0.0
+lexeme,10.0,11.0,26.0,5.0,3.0
+county of Iowa,38.0,11.0,4.0,2.0,0.0
+cultural heritage,19.0,11.0,7.0,11.0,7.0
+proper noun,10.0,11.0,26.0,5.0,3.0
+proper name,10.0,11.0,26.0,5.0,3.0
+,10.0,11.0,26.0,5.0,3.0
+constituent,10.0,11.0,24.0,6.0,4.0
+syntagma,10.0,11.0,26.0,5.0,3.0
+phrase,10.0,11.0,26.0,5.0,3.0
+linguistic unit,10.0,11.0,24.0,6.0,4.0
+thoroughfare,40.0,10.0,4.0,0.0,1.0
+product,37.0,10.0,3.0,3.0,2.0
+natural object,42.0,10.0,1.0,1.0,1.0
+construction,11.0,10.0,7.0,6.0,21.0
+railway facility,11.0,10.0,7.0,6.0,21.0
+civil township,33.0,10.0,7.0,2.0,3.0
+written work,45.0,10.0,0.0,0.0,0.0
+municipal corporation in the United States,4.0,10.0,8.0,6.0,27.0
+military base,36.0,10.0,4.0,2.0,3.0
+metaclass,37.0,10.0,5.0,3.0,0.0
+MediaWiki main-namespace page,41.0,10.0,0.0,2.0,2.0
+citation,3.0,10.0,7.0,4.0,31.0
+cross-reference,3.0,10.0,7.0,4.0,31.0
+peninsula,3.0,10.0,6.0,4.0,32.0
+Wikimedia article page,41.0,10.0,0.0,2.0,2.0
+social phenomenon,45.0,10.0,0.0,0.0,0.0
+minor civil division,40.0,10.0,1.0,1.0,3.0
+human activity,45.0,10.0,0.0,0.0,0.0
+type of French administrative division,40.0,10.0,4.0,0.0,1.0
+cellular component,45.0,10.0,0.0,0.0,0.0
+cell,45.0,10.0,0.0,0.0,0.0
+real property,39.0,10.0,2.0,2.0,2.0
+sign,10.0,10.0,21.0,9.0,5.0
+railway station,11.0,10.0,7.0,6.0,21.0
+product,39.0,10.0,2.0,2.0,2.0
+part,43.0,10.0,2.0,0.0,0.0
+section of populated place,43.0,10.0,2.0,0.0,0.0
+village of Wisconsin,42.0,10.0,2.0,1.0,0.0
+rural settlement,44.0,10.0,1.0,0.0,0.0
+MediaWiki page,36.0,10.0,5.0,2.0,2.0
+school,36.0,10.0,6.0,1.0,2.0
+collection,43.0,10.0,2.0,0.0,0.0
+ratio scale of measurement,43.0,10.0,2.0,0.0,0.0
+human,39.0,10.0,2.0,2.0,2.0
+state park,43.0,10.0,2.0,0.0,0.0
+unincorporated area,7.0,10.0,13.0,8.0,17.0
+human-made landform,39.0,10.0,2.0,2.0,2.0
+unincorporated community,7.0,10.0,13.0,8.0,17.0
+work,39.0,10.0,2.0,2.0,2.0
+transport facility,10.0,10.0,8.0,6.0,21.0
+antisymmetric tensor,43.0,10.0,2.0,0.0,0.0
+national park,46.0,9.0,0.0,0.0,0.0
+Vermont state park,46.0,9.0,0.0,0.0,0.0
+,46.0,9.0,0.0,0.0,0.0
+requirement,46.0,9.0,0.0,0.0,0.0
+township of Indiana,46.0,9.0,0.0,0.0,0.0
+former administrative territorial entity,40.0,9.0,5.0,0.0,1.0
+English country house,46.0,9.0,0.0,0.0,0.0
+mansion,46.0,9.0,0.0,0.0,0.0
+data redundancy,42.0,9.0,0.0,2.0,2.0
+administrative territorial entity of Minnesota,46.0,9.0,0.0,0.0,0.0
+Wikimedia duplicated page,42.0,9.0,0.0,2.0,2.0
+administrative territorial entity of Australia,46.0,9.0,0.0,0.0,0.0
+ghost town,43.0,9.0,2.0,0.0,1.0
+county of Idaho,46.0,9.0,0.0,0.0,0.0
+publisher,43.0,9.0,2.0,0.0,1.0
+communication medium,39.0,9.0,4.0,2.0,1.0
+human communication,41.0,9.0,5.0,0.0,0.0
+scholarly article,39.0,9.0,6.0,1.0,0.0
+scalar physical quantity,46.0,9.0,0.0,0.0,0.0
+lands administrative division of Victoria,46.0,9.0,0.0,0.0,0.0
+glider airfield,39.0,9.0,6.0,1.0,0.0
+lands administrative division of Australia,46.0,9.0,0.0,0.0,0.0
+scientific work,39.0,9.0,6.0,1.0,0.0
+protected area,46.0,9.0,0.0,0.0,0.0
+authority,1.0,9.0,10.0,4.0,31.0
+organ,1.0,9.0,10.0,4.0,31.0
+power,1.0,9.0,10.0,4.0,31.0
+city,5.0,9.0,8.0,6.0,27.0
+urban area,5.0,9.0,8.0,6.0,27.0
+borough,45.0,9.0,1.0,0.0,0.0
+borough in the United States,40.0,9.0,4.0,2.0,0.0
+power,1.0,9.0,10.0,4.0,31.0
+city/town,5.0,9.0,8.0,6.0,27.0
+political power,1.0,9.0,10.0,4.0,31.0
+animal behavior,45.0,8.0,2.0,0.0,0.0
+legal case,46.0,8.0,1.0,0.0,0.0
+green space,46.0,8.0,1.0,0.0,0.0
+locality,5.0,8.0,7.0,6.0,29.0
+building division,47.0,8.0,0.0,0.0,0.0
+mountain range,47.0,8.0,0.0,0.0,0.0
+mountain,45.0,8.0,2.0,0.0,0.0
+park,46.0,8.0,1.0,0.0,0.0
+energy generating station,46.0,8.0,1.0,0.0,0.0
+residence,43.0,8.0,3.0,0.0,1.0
+comics character,44.0,8.0,1.0,0.0,2.0
+fictional entity,40.0,8.0,4.0,1.0,2.0
+film character,44.0,8.0,1.0,0.0,2.0
+venue,11.0,8.0,9.0,5.0,22.0
+borough of Pennsylvania,13.0,8.0,6.0,4.0,24.0
+strait,46.0,8.0,1.0,0.0,0.0
+sound,46.0,8.0,1.0,0.0,0.0
+village,21.0,8.0,5.0,7.0,14.0
+secondary school,44.0,8.0,0.0,0.0,3.0
+state,32.0,8.0,6.0,4.0,5.0
+communication,46.0,8.0,1.0,0.0,0.0
+problem,31.0,8.0,6.0,5.0,5.0
+physiological condition,31.0,8.0,6.0,5.0,5.0
+condition,42.0,8.0,3.0,1.0,1.0
+knowledge,10.0,8.0,19.0,10.0,8.0
+Wikimedia project page,42.0,8.0,3.0,1.0,1.0
+precept,46.0,8.0,1.0,0.0,0.0
+county of South Carolina,47.0,8.0,0.0,0.0,0.0
+county of Texas,47.0,8.0,0.0,0.0,0.0
+phenomenon,46.0,8.0,1.0,0.0,0.0
+station,11.0,8.0,9.0,5.0,22.0
+watercolor painting,46.0,8.0,0.0,1.0,0.0
+historical fact,45.0,8.0,1.0,0.0,1.0
+sentence,45.0,8.0,1.0,0.0,1.0
+landscape,46.0,8.0,1.0,0.0,0.0
+statement,45.0,8.0,1.0,0.0,1.0
+delegated commune,45.0,8.0,1.0,0.0,1.0
+drawing,45.0,8.0,1.0,1.0,0.0
+auto show,45.0,8.0,1.0,1.0,0.0
+act,24.0,8.0,7.0,1.0,15.0
+activity,47.0,7.0,1.0,0.0,0.0
+industry,47.0,7.0,1.0,0.0,0.0
+city of Wisconsin,48.0,7.0,0.0,0.0,0.0
+conflict,47.0,7.0,1.0,0.0,0.0
+public space,36.0,7.0,7.0,3.0,2.0
+international conference,45.0,7.0,2.0,1.0,0.0
+operation,47.0,7.0,1.0,0.0,0.0
+legal action,43.0,7.0,2.0,3.0,0.0
+administrative territorial entity of England,43.0,7.0,2.0,1.0,2.0
+convention,47.0,7.0,1.0,0.0,0.0
+competition,45.0,7.0,2.0,1.0,0.0
+administrative territorial entity of North Carolina,48.0,7.0,0.0,0.0,0.0
+aspect of music,28.0,7.0,4.0,1.0,15.0
+contradiction,47.0,7.0,1.0,0.0,0.0
+production,48.0,7.0,0.0,0.0,0.0
+meeting,45.0,7.0,2.0,1.0,0.0
+event,47.0,7.0,1.0,0.0,0.0
+change,28.0,7.0,4.0,1.0,15.0
+television program,47.0,7.0,1.0,0.0,0.0
+thermal power station,47.0,7.0,1.0,0.0,0.0
+social space,36.0,7.0,7.0,3.0,2.0
+frazione,42.0,7.0,1.0,2.0,3.0
+enterprise,47.0,7.0,1.0,0.0,0.0
+swamp,43.0,7.0,2.0,3.0,0.0
+wetland,47.0,7.0,1.0,0.0,0.0
+education agency,48.0,7.0,0.0,0.0,0.0
+comic format,47.0,7.0,1.0,0.0,0.0
+biological component,47.0,7.0,1.0,0.0,0.0
+political territorial entity,2.0,7.0,7.0,5.0,34.0
+government organization,48.0,7.0,0.0,0.0,0.0
+newscast,47.0,7.0,1.0,0.0,0.0
+broadcasting program,47.0,7.0,1.0,0.0,0.0
+post office,47.0,7.0,1.0,0.0,0.0
+public building,47.0,7.0,1.0,0.0,0.0
+medical organization,47.0,7.0,1.0,0.0,0.0
+landmass,47.0,7.0,1.0,0.0,0.0
+facility,8.0,7.0,12.0,6.0,22.0
+intraspecies interaction between organisms,47.0,6.0,0.0,0.0,2.0
+film gauge,48.0,6.0,1.0,0.0,0.0
+legal act,47.0,6.0,0.0,0.0,2.0
+body of water,47.0,6.0,0.0,0.0,2.0
+single,49.0,6.0,0.0,0.0,0.0
+metric function,48.0,6.0,1.0,0.0,0.0
+comic strip,49.0,6.0,0.0,0.0,0.0
+coal-fired power station,47.0,6.0,0.0,0.0,2.0
+country house,49.0,6.0,0.0,0.0,0.0
+individual,48.0,6.0,1.0,0.0,0.0
+county of West Virginia,49.0,6.0,0.0,0.0,0.0
+measurement scale,49.0,6.0,0.0,0.0,0.0
+township of Minnesota,49.0,6.0,0.0,0.0,0.0
+statistical territorial entity,4.0,6.0,10.0,2.0,33.0
+parish of Australia,49.0,6.0,0.0,0.0,0.0
+gazetted locality of Victoria,49.0,6.0,0.0,0.0,0.0
+ferry route,49.0,6.0,0.0,0.0,0.0
+fossil taxon,49.0,6.0,0.0,0.0,0.0
+work,45.0,6.0,2.0,1.0,1.0
+urban unit definition,48.0,6.0,1.0,0.0,0.0
+music term,47.0,6.0,2.0,0.0,0.0
+civil town of Wisconsin,43.0,6.0,2.0,2.0,2.0
+work of art,48.0,6.0,1.0,0.0,0.0
+seat,49.0,6.0,0.0,0.0,0.0
+gold mine,48.0,6.0,0.0,1.0,0.0
+museum,48.0,6.0,1.0,0.0,0.0
+cultural organization,48.0,6.0,0.0,1.0,0.0
+Mining companies,48.0,6.0,0.0,1.0,0.0
+hotel,46.0,6.0,2.0,1.0,0.0
+university-preparatory school,46.0,6.0,2.0,1.0,0.0
+binary relation,49.0,6.0,0.0,0.0,0.0
+competition,46.0,6.0,2.0,1.0,0.0
+township of Kansas,46.0,6.0,2.0,0.0,1.0
+bridge,47.0,6.0,1.0,0.0,1.0
+public institution of the United States,47.0,6.0,1.0,0.0,1.0
+county of Illinois,49.0,6.0,0.0,0.0,0.0
+sport competition,46.0,6.0,2.0,1.0,0.0
+cultural property,49.0,6.0,0.0,0.0,0.0
+organism,48.0,6.0,1.0,0.0,0.0
+interaction,29.0,6.0,4.0,1.0,15.0
+architectural structure,49.0,6.0,0.0,0.0,0.0
+apple cultivar,47.0,6.0,2.0,0.0,0.0
+legal concept,43.0,6.0,1.0,2.0,3.0
+local government in Pennsylvania,15.0,6.0,6.0,4.0,24.0
+rural area,42.0,6.0,4.0,3.0,0.0
+asteroid,49.0,6.0,0.0,0.0,0.0
+aerodrome,49.0,6.0,0.0,0.0,0.0
+plant,48.0,6.0,1.0,0.0,0.0
+township of Illinois,46.0,6.0,2.0,1.0,0.0
+comune of Italy,49.0,6.0,0.0,0.0,0.0
+format,29.0,6.0,4.0,1.0,15.0
+form,29.0,6.0,4.0,1.0,15.0
+class or metaclass of Wikidata ontology,28.0,6.0,8.0,3.0,10.0
+fossil-fuel power station,45.0,6.0,3.0,1.0,0.0
+heritage,49.0,6.0,0.0,0.0,0.0
+economic activity,47.0,5.0,2.0,0.0,1.0
+biological system,49.0,5.0,1.0,0.0,0.0
+physical quantity,50.0,5.0,0.0,0.0,0.0
+gas turbine power station,45.0,5.0,4.0,1.0,0.0
+economic agent,45.0,5.0,4.0,1.0,0.0
+type of organisation,46.0,5.0,0.0,1.0,3.0
+symmetric tensor,50.0,5.0,0.0,0.0,0.0
+system,49.0,5.0,0.0,1.0,0.0
+hole,49.0,5.0,0.0,1.0,0.0
+land,49.0,5.0,1.0,0.0,0.0
+football club,47.0,5.0,2.0,0.0,1.0
+ethnological museum,50.0,5.0,0.0,0.0,0.0
+political concept,49.0,5.0,1.0,0.0,0.0
+ecosystem,49.0,5.0,1.0,0.0,0.0
+mass media,46.0,5.0,0.0,1.0,3.0
+lodging,49.0,5.0,0.0,1.0,0.0
+fictional humanoid species,47.0,5.0,3.0,0.0,0.0
+interpersonal communication,49.0,5.0,1.0,0.0,0.0
+theory,50.0,5.0,0.0,0.0,0.0
+collection,50.0,5.0,0.0,0.0,0.0
+discography,50.0,5.0,0.0,0.0,0.0
+electronic media,45.0,5.0,3.0,1.0,1.0
+set,46.0,5.0,3.0,0.0,1.0
+reference,46.0,5.0,0.0,1.0,3.0
+free area,48.0,5.0,1.0,0.0,1.0
+data,46.0,5.0,3.0,0.0,1.0
+automobile model,50.0,5.0,0.0,0.0,0.0
+abandoned village,48.0,5.0,2.0,0.0,0.0
+cancer cell line,50.0,5.0,0.0,0.0,0.0
+scalar magnitude,48.0,5.0,1.0,1.0,0.0
+manifestation,50.0,5.0,0.0,0.0,0.0
+natural watercourse,49.0,5.0,1.0,0.0,0.0
+building,50.0,5.0,0.0,0.0,0.0
+house,50.0,5.0,0.0,0.0,0.0
+industrial building,45.0,5.0,4.0,1.0,0.0
+rule,49.0,5.0,1.0,0.0,0.0
+service,50.0,5.0,0.0,0.0,0.0
+regularity,50.0,5.0,0.0,0.0,0.0
+automobile manufacturer,47.0,5.0,3.0,0.0,0.0
+club,47.0,4.0,4.0,0.0,0.0
+office building,51.0,4.0,0.0,0.0,0.0
+team,51.0,4.0,0.0,0.0,0.0
+cultivar,51.0,4.0,0.0,0.0,0.0
+natural geographic object,51.0,4.0,0.0,0.0,0.0
+catalog,51.0,4.0,0.0,0.0,0.0
+plant variety,29.0,4.0,8.0,0.0,14.0
+lineage,48.0,4.0,2.0,0.0,1.0
+land waters,51.0,4.0,0.0,0.0,0.0
+physical phenomenon,51.0,4.0,0.0,0.0,0.0
+indefinite legal concept,51.0,4.0,0.0,0.0,0.0
+public transport,51.0,4.0,0.0,0.0,0.0
+research object,0.0,4.0,4.0,3.0,44.0
+community,0.0,4.0,4.0,4.0,43.0
+unit,0.0,4.0,4.0,3.0,44.0
+private not-for-profit educational institution,51.0,4.0,0.0,0.0,0.0
+cantonal capital of Switzerland,51.0,4.0,0.0,0.0,0.0
+volcanic landform,51.0,4.0,0.0,0.0,0.0
+moor,50.0,4.0,1.0,0.0,0.0
+registration district in Sweden,50.0,4.0,1.0,0.0,0.0
+administrative territorial entity of Sweden,50.0,4.0,1.0,0.0,0.0
+second-order metaclass,51.0,4.0,0.0,0.0,0.0
+commune,50.0,4.0,1.0,0.0,0.0
+municipality of Belgium,50.0,4.0,1.0,0.0,0.0
+television series episode,50.0,4.0,1.0,0.0,0.0
+disaster,50.0,4.0,1.0,0.0,0.0
+municipality in Switzerland,51.0,4.0,0.0,0.0,0.0
+former municipality,51.0,4.0,0.0,0.0,0.0
+historical administrative division,51.0,4.0,0.0,0.0,0.0
+county of North Carolina,51.0,4.0,0.0,0.0,0.0
+rock band,51.0,4.0,0.0,0.0,0.0
+dance,51.0,4.0,0.0,0.0,0.0
+animal,51.0,4.0,0.0,0.0,0.0
+barque,50.0,4.0,1.0,0.0,0.0
+village of Poland,50.0,4.0,1.0,0.0,0.0
+communication technology,50.0,4.0,1.0,0.0,0.0
+profession,51.0,4.0,0.0,0.0,0.0
+comic genre,51.0,4.0,0.0,0.0,0.0
+capital,51.0,4.0,0.0,0.0,0.0
+canton of Switzerland,51.0,4.0,0.0,0.0,0.0
+canton,51.0,4.0,0.0,0.0,0.0
+city,51.0,4.0,0.0,0.0,0.0
+county of Indiana,51.0,4.0,0.0,0.0,0.0
+software,50.0,4.0,0.0,0.0,1.0
+,49.0,4.0,1.0,1.0,0.0
+statute,51.0,4.0,0.0,0.0,0.0
+dimensionless quantity,46.0,4.0,4.0,1.0,0.0
+congress,51.0,4.0,0.0,0.0,0.0
+area of London,51.0,4.0,0.0,0.0,0.0
+ward,51.0,4.0,0.0,0.0,0.0
+constituency,51.0,4.0,0.0,0.0,0.0
+constituency in the United Kingdom,51.0,4.0,0.0,0.0,0.0
+ward or electoral division of the United Kingdom,51.0,4.0,0.0,0.0,0.0
+literary character,49.0,4.0,2.0,0.0,0.0
+courthouse,51.0,4.0,0.0,0.0,0.0
+unit of analysis,0.0,4.0,4.0,3.0,44.0
+former populated place,51.0,4.0,0.0,0.0,0.0
+administrative territorial entity of Arkansas,48.0,4.0,3.0,0.0,0.0
+college,50.0,4.0,1.0,0.0,0.0
+county of Arkansas,48.0,4.0,3.0,0.0,0.0
+social group,0.0,4.0,4.0,3.0,44.0
+fictional human,51.0,4.0,0.0,0.0,0.0
+heliport,51.0,4.0,0.0,0.0,0.0
+document,51.0,4.0,0.0,0.0,0.0
+human settlement,0.0,4.0,4.0,2.0,45.0
+electronic page,48.0,4.0,2.0,1.0,0.0
+bay,50.0,4.0,1.0,0.0,0.0
+deserted medieval village,51.0,4.0,0.0,0.0,0.0
+biological process,51.0,4.0,0.0,0.0,0.0
+information exchange,51.0,4.0,0.0,0.0,0.0
+public educational institution of the United States,51.0,4.0,0.0,0.0,0.0
+natural process,50.0,4.0,1.0,0.0,0.0
+class,0.0,3.0,3.0,10.0,39.0
+performing arts building,52.0,3.0,0.0,0.0,0.0
+Municipal government in Canada,52.0,3.0,0.0,0.0,0.0
+machine,52.0,3.0,0.0,0.0,0.0
+inhabited area,51.0,3.0,1.0,0.0,0.0
+township in the United States,52.0,3.0,0.0,0.0,0.0
+natural disaster,52.0,3.0,0.0,0.0,0.0
+village in the United States,52.0,3.0,0.0,0.0,0.0
+designation for an administrative territorial entity of a single country,52.0,3.0,0.0,0.0,0.0
+volcano,52.0,3.0,0.0,0.0,0.0
+highland,52.0,3.0,0.0,0.0,0.0
+Belgian municipality with city privileges,52.0,3.0,0.0,0.0,0.0
+higher education institution,51.0,3.0,1.0,0.0,0.0
+community college,51.0,3.0,1.0,0.0,0.0
+local administrative unit in the NUTS system,52.0,3.0,0.0,0.0,0.0
+college town,52.0,3.0,0.0,0.0,0.0
+water tower,52.0,3.0,0.0,0.0,0.0
+communications protocol,52.0,3.0,0.0,0.0,0.0
+public institution,52.0,3.0,0.0,0.0,0.0
+television genre,52.0,3.0,0.0,0.0,0.0
+periodical literature,52.0,3.0,0.0,0.0,0.0
+statistical definition,52.0,3.0,0.0,0.0,0.0
+fortified town,52.0,3.0,0.0,0.0,0.0
+civil engineering construction,52.0,3.0,0.0,0.0,0.0
+physical property,52.0,3.0,0.0,0.0,0.0
+fortification,52.0,3.0,0.0,0.0,0.0
+equipment,52.0,3.0,0.0,0.0,0.0
+economic concept,52.0,3.0,0.0,0.0,0.0
+court decision,52.0,3.0,0.0,0.0,0.0
+horse,52.0,3.0,0.0,0.0,0.0
+legal transaction,52.0,3.0,0.0,0.0,0.0
+massif,52.0,3.0,0.0,0.0,0.0
+fort,52.0,3.0,0.0,0.0,0.0
+LAU 2,52.0,3.0,0.0,0.0,0.0
+United Nations Depository Library,52.0,3.0,0.0,0.0,0.0
+range,52.0,3.0,0.0,0.0,0.0
+competitive examination,51.0,3.0,0.0,0.0,1.0
+Wikimedia disambiguation page,52.0,3.0,0.0,0.0,0.0
+telecommunication company,52.0,3.0,0.0,0.0,0.0
+public company,52.0,3.0,0.0,0.0,0.0
+anime television series,52.0,3.0,0.0,0.0,0.0
+Colleges That Change Lives,52.0,3.0,0.0,0.0,0.0
+method,52.0,3.0,0.0,0.0,0.0
+music competition,51.0,3.0,0.0,0.0,1.0
+classical music competition,51.0,3.0,0.0,0.0,1.0
+fictional pony,52.0,3.0,0.0,0.0,0.0
+technique,51.0,3.0,0.0,0.0,1.0
+test,51.0,3.0,0.0,0.0,1.0
+magazine genre,51.0,3.0,0.0,0.0,1.0
+type of publication,51.0,3.0,0.0,0.0,1.0
+administrative subdivision of Wales,52.0,3.0,0.0,0.0,0.0
+community,52.0,3.0,0.0,0.0,0.0
+community,52.0,3.0,0.0,0.0,0.0
+web page,52.0,3.0,0.0,0.0,0.0
+fixed-order metaclass,52.0,3.0,0.0,0.0,0.0
+role,52.0,3.0,0.0,0.0,0.0
+conservatory,52.0,3.0,0.0,0.0,0.0
+non-geologically related mountain range,52.0,3.0,0.0,0.0,0.0
+levee,50.0,3.0,1.0,1.0,0.0
+probability,52.0,3.0,0.0,0.0,0.0
+literary work,52.0,3.0,0.0,0.0,0.0
+fictional activity,52.0,3.0,0.0,0.0,0.0
+historic district,52.0,3.0,0.0,0.0,0.0
+county of Mississippi,52.0,3.0,0.0,0.0,0.0
+agreement,49.0,3.0,2.0,1.0,0.0
+sources of international law,49.0,3.0,2.0,1.0,0.0
+retail location,50.0,3.0,2.0,0.0,0.0
+shop,50.0,3.0,2.0,0.0,0.0
+snagboat,52.0,3.0,0.0,0.0,0.0
+rural municipality of Canada,50.0,3.0,2.0,0.0,0.0
+municipality of New Jersey,50.0,3.0,2.0,0.0,0.0
+Wikimedia page,49.0,3.0,2.0,1.0,0.0
+military airbase,52.0,3.0,0.0,0.0,0.0
+water storage,52.0,3.0,0.0,0.0,0.0
+proposition,52.0,3.0,0.0,0.0,0.0
+criterion,52.0,3.0,0.0,0.0,0.0
+occurrence,52.0,3.0,0.0,0.0,0.0
+film format,52.0,3.0,0.0,0.0,0.0
+size,52.0,3.0,0.0,0.0,0.0
+observable entity,52.0,3.0,0.0,0.0,0.0
+valley,52.0,3.0,0.0,0.0,0.0
+watercourse,52.0,3.0,0.0,0.0,0.0
+duplicate,50.0,3.0,1.0,1.0,0.0
+physical process,52.0,3.0,0.0,0.0,0.0
+biographical article,52.0,3.0,0.0,0.0,0.0
+relation,52.0,3.0,0.0,0.0,0.0
+mission control center,52.0,3.0,0.0,0.0,0.0
+heritage site,52.0,3.0,0.0,0.0,0.0
+vocal-musical ensemble,52.0,3.0,0.0,0.0,0.0
+SI unit,49.0,3.0,3.0,0.0,0.0
+unit of measurement,49.0,3.0,3.0,0.0,0.0
+series of creative works,52.0,3.0,0.0,0.0,0.0
+transborder entity,52.0,3.0,0.0,0.0,0.0
+military facility,52.0,3.0,0.0,0.0,0.0
+space,52.0,3.0,0.0,0.0,0.0
+hill,52.0,3.0,0.0,0.0,0.0
+group of fictitious objects,52.0,3.0,0.0,0.0,0.0
+type of manufactured good,52.0,3.0,0.0,0.0,0.0
+association,51.0,3.0,1.0,0.0,0.0
+non-governmental organization,52.0,3.0,0.0,0.0,0.0
+sports club,47.0,3.0,3.0,2.0,0.0
+type,52.0,3.0,0.0,0.0,0.0
+hospital,47.0,3.0,3.0,2.0,0.0
+health care structure,47.0,3.0,4.0,1.0,0.0
+estate in land,52.0,3.0,0.0,0.0,0.0
+family,52.0,3.0,0.0,0.0,0.0
+former entity,52.0,3.0,0.0,0.0,0.0
+film,52.0,3.0,0.0,0.0,0.0
+news,51.0,3.0,1.0,0.0,0.0
+television series,51.0,3.0,1.0,0.0,0.0
+ship class,49.0,3.0,2.0,0.0,1.0
+action,52.0,3.0,0.0,0.0,0.0
+steam-electric power station,52.0,3.0,0.0,0.0,0.0
+administrative territorial entity of the United Kingdom,50.0,3.0,0.0,0.0,2.0
+administrative territorial entity of Michigan,52.0,3.0,0.0,0.0,0.0
+county seat,52.0,3.0,0.0,0.0,0.0
+meaning,52.0,3.0,0.0,0.0,0.0
+Wikipedia language edition,52.0,3.0,0.0,0.0,0.0
+past,52.0,3.0,0.0,0.0,0.0
+component,52.0,3.0,0.0,0.0,0.0
+administrative territorial entity of France,52.0,3.0,0.0,0.0,0.0
+race horse,52.0,3.0,0.0,0.0,0.0
+location,1.0,3.0,1.0,2.0,48.0
+court,52.0,3.0,0.0,0.0,0.0
+geographic location,1.0,3.0,2.0,3.0,46.0
+fact,52.0,3.0,0.0,0.0,0.0
+glacial landform,52.0,3.0,0.0,0.0,0.0
+Thoroughbred,52.0,3.0,0.0,0.0,0.0
+creature,52.0,3.0,0.0,0.0,0.0
+Quaternary science,52.0,3.0,0.0,0.0,0.0
+domesticated animal,52.0,3.0,0.0,0.0,0.0
+meaning,52.0,3.0,0.0,0.0,0.0
+square,51.0,3.0,1.0,0.0,0.0
+semantic unit,52.0,3.0,0.0,0.0,0.0
+domesticated mammal,52.0,3.0,0.0,0.0,0.0
+astronomical catalog,53.0,2.0,0.0,0.0,0.0
+arts educational institution,53.0,2.0,0.0,0.0,0.0
+liberal arts college,53.0,2.0,0.0,0.0,0.0
+fortress,53.0,2.0,0.0,0.0,0.0
+inland island,53.0,2.0,0.0,0.0,0.0
+railroad line,53.0,2.0,0.0,0.0,0.0
+length,53.0,2.0,0.0,0.0,0.0
+biological sequence,53.0,2.0,0.0,0.0,0.0
+animal actor,53.0,2.0,0.0,0.0,0.0
+waterway,53.0,2.0,0.0,0.0,0.0
+hazard,53.0,2.0,0.0,0.0,0.0
+risk,53.0,2.0,0.0,0.0,0.0
+shallow,53.0,2.0,0.0,0.0,0.0
+county of Michigan,53.0,2.0,0.0,0.0,0.0
+episode,53.0,2.0,0.0,0.0,0.0
+technical standard,53.0,2.0,0.0,0.0,0.0
+nucleic acid structure,53.0,2.0,0.0,0.0,0.0
+video game developer,53.0,2.0,0.0,0.0,0.0
+newspaper,53.0,2.0,0.0,0.0,0.0
+computer network protocol,53.0,2.0,0.0,0.0,0.0
+shield volcano,53.0,2.0,0.0,0.0,0.0
+moving image,53.0,2.0,0.0,0.0,0.0
+video game character,53.0,2.0,0.0,0.0,0.0
+primary structure,53.0,2.0,0.0,0.0,0.0
+data conversion,53.0,2.0,0.0,0.0,0.0
+daily newspaper,53.0,2.0,0.0,0.0,0.0
+business,52.0,2.0,0.0,0.0,1.0
+vegetation zone,53.0,2.0,0.0,0.0,0.0
+list,53.0,2.0,0.0,0.0,0.0
+forest,53.0,2.0,0.0,0.0,0.0
+administrative territorial entity of Belgium,53.0,2.0,0.0,0.0,0.0
+creator,53.0,2.0,0.0,0.0,0.0
+institute,53.0,2.0,0.0,0.0,0.0
+data structure,53.0,2.0,0.0,0.0,0.0
+hypothetical entity,50.0,2.0,3.0,0.0,0.0
+observatory,53.0,2.0,0.0,0.0,0.0
+aggregation,53.0,2.0,0.0,0.0,0.0
+human action,53.0,2.0,0.0,0.0,0.0
+orchestra,53.0,2.0,0.0,0.0,0.0
+measure,52.0,2.0,1.0,0.0,0.0
+serial,53.0,2.0,0.0,0.0,0.0
+filmmaking,53.0,2.0,0.0,0.0,0.0
+basketball team,53.0,2.0,0.0,0.0,0.0
+musical form,53.0,2.0,0.0,0.0,0.0
+county of Montana,53.0,2.0,0.0,0.0,0.0
+specification,53.0,2.0,0.0,0.0,0.0
+university and college sports club,53.0,2.0,0.0,0.0,0.0
+river island,53.0,2.0,0.0,0.0,0.0
+student society,53.0,2.0,0.0,0.0,0.0
+music venue,53.0,2.0,0.0,0.0,0.0
+township,53.0,2.0,0.0,0.0,0.0
+aptitude,51.0,2.0,0.0,0.0,2.0
+mobile technology,53.0,2.0,0.0,0.0,0.0
+code,53.0,2.0,0.0,0.0,0.0
+group of works,53.0,2.0,0.0,0.0,0.0
+science,53.0,2.0,0.0,0.0,0.0
+county of Minnesota,53.0,2.0,0.0,0.0,0.0
+mobile phone generation,53.0,2.0,0.0,0.0,0.0
+distance,53.0,2.0,0.0,0.0,0.0
+goods,1.0,2.0,6.0,8.0,38.0
+plain,53.0,2.0,0.0,0.0,0.0
+biome,53.0,2.0,0.0,0.0,0.0
+air transport infrastructure,53.0,2.0,0.0,0.0,0.0
+title of honor,53.0,2.0,0.0,0.0,0.0
+art museum,53.0,2.0,0.0,0.0,0.0
+railway tunnel,53.0,2.0,0.0,0.0,0.0
+item of collection or exhibition,53.0,2.0,0.0,0.0,0.0
+state school,53.0,2.0,0.0,0.0,0.0
+underground building,53.0,2.0,0.0,0.0,0.0
+township of Canada,53.0,2.0,0.0,0.0,0.0
+item,53.0,2.0,0.0,0.0,0.0
+"version, edition, or translation",53.0,2.0,0.0,0.0,0.0
+level of description,53.0,2.0,0.0,0.0,0.0
+civil parish,53.0,2.0,0.0,0.0,0.0
+cultivated plant,53.0,2.0,0.0,0.0,0.0
+killing,53.0,2.0,0.0,0.0,0.0
+group of organisms known by one particular common name,1.0,2.0,8.0,2.0,42.0
+article,53.0,2.0,0.0,0.0,0.0
+glacier,52.0,2.0,1.0,0.0,0.0
+taxon,52.0,2.0,1.0,0.0,0.0
+suburb,52.0,2.0,1.0,0.0,0.0
+thermodynamic process,53.0,2.0,0.0,0.0,0.0
+cardinal measurement scale,53.0,2.0,0.0,0.0,0.0
+quantity,53.0,2.0,0.0,0.0,0.0
+Transfer operator,53.0,2.0,0.0,0.0,0.0
+mutant,53.0,2.0,0.0,0.0,0.0
+kindred,53.0,2.0,0.0,0.0,0.0
+sibling duo,53.0,2.0,0.0,0.0,0.0
+theatre,53.0,2.0,0.0,0.0,0.0
+passageway,53.0,2.0,0.0,0.0,0.0
+tram stop,53.0,2.0,0.0,0.0,0.0
+two people,53.0,2.0,0.0,0.0,0.0
+national wildlife area of Canada,53.0,2.0,0.0,0.0,0.0
+trail,53.0,2.0,0.0,0.0,0.0
+sports organization,53.0,2.0,0.0,0.0,0.0
+association football club,53.0,2.0,0.0,0.0,0.0
+fictional profession,53.0,2.0,0.0,0.0,0.0
+source,53.0,2.0,0.0,0.0,0.0
+radio program,51.0,2.0,2.0,0.0,0.0
+nation,53.0,2.0,0.0,0.0,0.0
+construct,53.0,2.0,0.0,0.0,0.0
+gun violence,53.0,2.0,0.0,0.0,0.0
+fusillade,51.0,2.0,1.0,1.0,0.0
+municipality,53.0,2.0,0.0,0.0,0.0
+local municipality of Quebec,53.0,2.0,0.0,0.0,0.0
+violent crime,53.0,2.0,0.0,0.0,0.0
+real estate,53.0,2.0,0.0,0.0,0.0
+news article,53.0,2.0,0.0,0.0,0.0
+low spot,53.0,2.0,0.0,0.0,0.0
+sea mark,53.0,2.0,0.0,0.0,0.0
+prison,53.0,2.0,0.0,0.0,0.0
+public service,53.0,2.0,0.0,0.0,0.0
+use,53.0,2.0,0.0,0.0,0.0
+entry point,1.0,2.0,8.0,2.0,42.0
+group of fictional characters,53.0,2.0,0.0,0.0,0.0
+transport,53.0,2.0,0.0,0.0,0.0
+mass shooting,53.0,2.0,0.0,0.0,0.0
+motor vehicle,53.0,2.0,0.0,0.0,0.0
+tank locomotive,53.0,2.0,0.0,0.0,0.0
+vehicle,53.0,2.0,0.0,0.0,0.0
+outdoor cinema,53.0,2.0,0.0,0.0,0.0
+county of New York,53.0,2.0,0.0,0.0,0.0
+sibling group,53.0,2.0,0.0,0.0,0.0
+second-class city,52.0,2.0,1.0,0.0,0.0
+district of Ethiopia,51.0,2.0,2.0,0.0,0.0
+fictional ethnic group,53.0,2.0,0.0,0.0,0.0
+painting,53.0,2.0,0.0,0.0,0.0
+county of Ohio,53.0,2.0,0.0,0.0,0.0
+Wikidata instance class,53.0,2.0,0.0,0.0,0.0
+fair,53.0,2.0,0.0,0.0,0.0
+trade fair,53.0,2.0,0.0,0.0,0.0
+county of Florida,52.0,2.0,1.0,0.0,0.0
+recreation,53.0,2.0,0.0,0.0,0.0
+spring,53.0,2.0,0.0,0.0,0.0
+railway,53.0,2.0,0.0,0.0,0.0
+data format,53.0,2.0,0.0,0.0,0.0
+mathematical model,53.0,2.0,0.0,0.0,0.0
+science museum,52.0,2.0,0.0,1.0,0.0
+historical event,52.0,2.0,0.0,1.0,0.0
+character type,53.0,2.0,0.0,0.0,0.0
+music education organization,53.0,2.0,0.0,0.0,0.0
+Wikidata metaclass,53.0,2.0,0.0,0.0,0.0
+grant,53.0,2.0,0.0,0.0,0.0
+county of Kansas,53.0,2.0,0.0,0.0,0.0
+Human,53.0,2.0,0.0,0.0,0.0
+art genre,53.0,2.0,0.0,0.0,0.0
+formation,53.0,2.0,0.0,0.0,0.0
+dyad,53.0,2.0,0.0,0.0,0.0
+dyad,53.0,2.0,0.0,0.0,0.0
+social relation,53.0,2.0,0.0,0.0,0.0
+footbridge,53.0,2.0,0.0,0.0,0.0
+railway bridge,53.0,2.0,0.0,0.0,0.0
+truss bridge,53.0,2.0,0.0,0.0,0.0
+steam locomotive,53.0,2.0,0.0,0.0,0.0
+county of New South Wales,53.0,2.0,0.0,0.0,0.0
+horse breed,53.0,2.0,0.0,0.0,0.0
+Semitic letter,53.0,2.0,0.0,0.0,0.0
+device,53.0,2.0,0.0,0.0,0.0
+defined community of Minneapolis,53.0,2.0,0.0,0.0,0.0
+open-air theatre,53.0,2.0,0.0,0.0,0.0
+municipality of Ontario,53.0,2.0,0.0,0.0,0.0
+academic discipline,53.0,2.0,0.0,0.0,0.0
+county of Kentucky,53.0,2.0,0.0,0.0,0.0
+lower-tier municipality,53.0,2.0,0.0,0.0,0.0
+type of administrative division in the USA,53.0,2.0,0.0,0.0,0.0
+census division of Ontario,53.0,2.0,0.0,0.0,0.0
+administrative territorial entity of Canada,53.0,2.0,0.0,0.0,0.0
+object composition,54.0,1.0,0.0,0.0,0.0
+county of Oklahoma,54.0,1.0,0.0,0.0,0.0
+notation,54.0,1.0,0.0,0.0,0.0
+sign system,54.0,1.0,0.0,0.0,0.0
+Unicode block,54.0,1.0,0.0,0.0,0.0
+conceptual system,54.0,1.0,0.0,0.0,0.0
+aircraft component,54.0,1.0,0.0,0.0,0.0
+technological component,54.0,1.0,0.0,0.0,0.0
+abstract data type,54.0,1.0,0.0,0.0,0.0
+syllabary,54.0,1.0,0.0,0.0,0.0
+brig-sloop,54.0,1.0,0.0,0.0,0.0
+channel,54.0,1.0,0.0,0.0,0.0
+political family,54.0,1.0,0.0,0.0,0.0
+trademark,54.0,1.0,0.0,0.0,0.0
+media company,54.0,1.0,0.0,0.0,0.0
+intellectual property,54.0,1.0,0.0,0.0,0.0
+depiction,54.0,1.0,0.0,0.0,0.0
+motorcycle manufacturer,54.0,1.0,0.0,0.0,0.0
+historical motorcycle manufacturer,54.0,1.0,0.0,0.0,0.0
+footpath,54.0,1.0,0.0,0.0,0.0
+covered bridge,54.0,1.0,0.0,0.0,0.0
+bridge by structural type,54.0,1.0,0.0,0.0,0.0
+duo,54.0,1.0,0.0,0.0,0.0
+freight terminal,54.0,1.0,0.0,0.0,0.0
+golf course,54.0,1.0,0.0,0.0,0.0
+Ice Cover,54.0,1.0,0.0,0.0,0.0
+defunct organization,54.0,1.0,0.0,0.0,0.0
+writing system,54.0,1.0,0.0,0.0,0.0
+tribunal,54.0,1.0,0.0,0.0,0.0
+container terminal,54.0,1.0,0.0,0.0,0.0
+mineral species,54.0,1.0,0.0,0.0,0.0
+electoral district of Western Australia,54.0,1.0,0.0,0.0,0.0
+suburb of Perth,54.0,1.0,0.0,0.0,0.0
+department store chain,54.0,1.0,0.0,0.0,0.0
+position,54.0,1.0,0.0,0.0,0.0
+role,54.0,1.0,0.0,0.0,0.0
+department store,54.0,1.0,0.0,0.0,0.0
+city of Pennsylvania,54.0,1.0,0.0,0.0,0.0
+administrative territorial entity of Ireland,54.0,1.0,0.0,0.0,0.0
+townland,54.0,1.0,0.0,0.0,0.0
+commercial building,54.0,1.0,0.0,0.0,0.0
+resource,54.0,1.0,0.0,0.0,0.0
+record label,54.0,1.0,0.0,0.0,0.0
+model,54.0,1.0,0.0,0.0,0.0
+music publisher,54.0,1.0,0.0,0.0,0.0
+video game,54.0,1.0,0.0,0.0,0.0
+administrative territorial entity of the Philippines,54.0,1.0,0.0,0.0,0.0
+municipality of the Philippines,54.0,1.0,0.0,0.0,0.0
+sports venue,54.0,1.0,0.0,0.0,0.0
+stadium,54.0,1.0,0.0,0.0,0.0
+sign,54.0,1.0,0.0,0.0,0.0
+object aggregation,54.0,1.0,0.0,0.0,0.0
+jazz standard,54.0,1.0,0.0,0.0,0.0
+software feature,52.0,1.0,0.0,1.0,1.0
+web server,54.0,1.0,0.0,0.0,0.0
+aircraft model,54.0,1.0,0.0,0.0,0.0
+Wikimedia template,54.0,1.0,0.0,0.0,0.0
+ethnic group,54.0,1.0,0.0,0.0,0.0
+sacred language,54.0,1.0,0.0,0.0,0.0
+wilderness area,54.0,1.0,0.0,0.0,0.0
+indigenous language,54.0,1.0,0.0,0.0,0.0
+language,54.0,1.0,0.0,0.0,0.0
+type of language,54.0,1.0,0.0,0.0,0.0
+languoid,54.0,1.0,0.0,0.0,0.0
+monotypic taxon,54.0,1.0,0.0,0.0,0.0
+modern language,54.0,1.0,0.0,0.0,0.0
+transport hub,54.0,1.0,0.0,0.0,0.0
+symbol,54.0,1.0,0.0,0.0,0.0
+bundle of rights,54.0,1.0,0.0,0.0,0.0
+image,54.0,1.0,0.0,0.0,0.0
+asset,54.0,1.0,0.0,0.0,0.0
+intangible asset,54.0,1.0,0.0,0.0,0.0
+wilderness area,54.0,1.0,0.0,0.0,0.0
+exhibition building,54.0,1.0,0.0,0.0,0.0
+idea,54.0,1.0,0.0,0.0,0.0
+live album,54.0,1.0,0.0,0.0,0.0
+transport company,54.0,1.0,0.0,0.0,0.0
+attack,54.0,1.0,0.0,0.0,0.0
+delict,54.0,1.0,0.0,0.0,0.0
+municipality section,54.0,1.0,0.0,0.0,0.0
+municipality of Brazil,54.0,1.0,0.0,0.0,0.0
+administrative territorial entity of Brazil,54.0,1.0,0.0,0.0,0.0
+Evolution theory,54.0,1.0,0.0,0.0,0.0
+national association football cup,54.0,1.0,0.0,0.0,0.0
+shooting attack,54.0,1.0,0.0,0.0,0.0
+electronic game,54.0,1.0,0.0,0.0,0.0
+mining region,54.0,1.0,0.0,0.0,0.0
+oil field,54.0,1.0,0.0,0.0,0.0
+violence,54.0,1.0,0.0,0.0,0.0
+petroleum reservoir,54.0,1.0,0.0,0.0,0.0
+mineral deposit,54.0,1.0,0.0,0.0,0.0
+cove,54.0,1.0,0.0,0.0,0.0
+murder,54.0,1.0,0.0,0.0,0.0
+offense,54.0,1.0,0.0,0.0,0.0
+homicide,54.0,1.0,0.0,0.0,0.0
+metropolitan area,54.0,1.0,0.0,0.0,0.0
+role-playing game,54.0,1.0,0.0,0.0,0.0
+shootout,54.0,1.0,0.0,0.0,0.0
+former municipality of the Netherlands,54.0,1.0,0.0,0.0,0.0
+hillfort,54.0,1.0,0.0,0.0,0.0
+feature,54.0,1.0,0.0,0.0,0.0
+promontory fort,54.0,1.0,0.0,0.0,0.0
+province of Sweden,54.0,1.0,0.0,0.0,0.0
+province,54.0,1.0,0.0,0.0,0.0
+syllabogram,54.0,1.0,0.0,0.0,0.0
+religious administrative territorial entity,54.0,1.0,0.0,0.0,0.0
+titular see,54.0,1.0,0.0,0.0,0.0
+,54.0,1.0,0.0,0.0,0.0
+municipality section,54.0,1.0,0.0,0.0,0.0
+grapheme,54.0,1.0,0.0,0.0,0.0
+alphanumeric character,54.0,1.0,0.0,0.0,0.0
+character,54.0,1.0,0.0,0.0,0.0
+Hebrew letter,54.0,1.0,0.0,0.0,0.0
+letter,54.0,1.0,0.0,0.0,0.0
+administrative territorial entity of the Netherlands,54.0,1.0,0.0,0.0,0.0
+populated place in the Netherlands,54.0,1.0,0.0,0.0,0.0
+municipality of the Netherlands,54.0,1.0,0.0,0.0,0.0
+dwelling place,54.0,1.0,0.0,0.0,0.0
+Disparo a progre,54.0,1.0,0.0,0.0,0.0
+violation of law,54.0,1.0,0.0,0.0,0.0
+natural landscape,54.0,1.0,0.0,0.0,0.0
+recurring event,54.0,1.0,0.0,0.0,0.0
+military unit,54.0,1.0,0.0,0.0,0.0
+organizational subdivision,54.0,1.0,0.0,0.0,0.0
+law enforcement agency,54.0,1.0,0.0,0.0,0.0
+state electoral district,54.0,1.0,0.0,0.0,0.0
+Tasmanian House of Assembly electoral division,54.0,1.0,0.0,0.0,0.0
+periodic process,54.0,1.0,0.0,0.0,0.0
+division of the Australian House of Representatives,54.0,1.0,0.0,0.0,0.0
+third-class city,54.0,1.0,0.0,0.0,0.0
+animated series,54.0,1.0,0.0,0.0,0.0
+lyceum,54.0,1.0,0.0,0.0,0.0
+administrative territorial entity of Quebec,54.0,1.0,0.0,0.0,0.0
+Ortsteil,54.0,1.0,0.0,0.0,0.0
+UCI ProTeam,54.0,1.0,0.0,0.0,0.0
+UCI WorldTeam,54.0,1.0,0.0,0.0,0.0
+cycling team,54.0,1.0,0.0,0.0,0.0
+professional cycling team,54.0,1.0,0.0,0.0,0.0
+rugby union competition,54.0,1.0,0.0,0.0,0.0
+UCI Women's Team,54.0,1.0,0.0,0.0,0.0
+professional sports team,54.0,1.0,0.0,0.0,0.0
+armed organization,54.0,1.0,0.0,0.0,0.0
+sports season of a sports club,54.0,1.0,0.0,0.0,0.0
+massacre,54.0,1.0,0.0,0.0,0.0
+aspect of history,54.0,1.0,0.0,0.0,0.0
+legal wrong,54.0,1.0,0.0,0.0,0.0
+wrongdoing,54.0,1.0,0.0,0.0,0.0
+mass murder,54.0,1.0,0.0,0.0,0.0
+assault,54.0,1.0,0.0,0.0,0.0
+public holidays in Japan,54.0,1.0,0.0,0.0,0.0
+recurrent event edition,54.0,1.0,0.0,0.0,0.0
+crime,54.0,1.0,0.0,0.0,0.0
+sports season,54.0,1.0,0.0,0.0,0.0
+season,54.0,1.0,0.0,0.0,0.0
+spacetime volume,54.0,1.0,0.0,0.0,0.0
+aspect,54.0,1.0,0.0,0.0,0.0
+time interval,54.0,1.0,0.0,0.0,0.0
+deadly force,54.0,1.0,0.0,0.0,0.0
+chicken breed,54.0,1.0,0.0,0.0,0.0
+township of Arkansas,54.0,1.0,0.0,0.0,0.0
+former railway station,54.0,1.0,0.0,0.0,0.0
+events in a specific year or time period,54.0,1.0,0.0,0.0,0.0
+bus company,54.0,1.0,0.0,0.0,0.0
+military organization,54.0,1.0,0.0,0.0,0.0
+archaeological artifact,54.0,1.0,0.0,0.0,0.0
+religious administrative entity,54.0,1.0,0.0,0.0,0.0
+diocese,54.0,1.0,0.0,0.0,0.0
+county of Nebraska,54.0,1.0,0.0,0.0,0.0
+cinematic technique,54.0,1.0,0.0,0.0,0.0
+imaging method,54.0,1.0,0.0,0.0,0.0
+artistic technique,54.0,1.0,0.0,0.0,0.0
+animation,54.0,1.0,0.0,0.0,0.0
+photography,54.0,1.0,0.0,0.0,0.0
+Environmental impact of the petroleum industry,54.0,1.0,0.0,0.0,0.0
+environmental disaster,54.0,1.0,0.0,0.0,0.0
+audiovisual production,54.0,1.0,0.0,0.0,0.0
+animation technique,54.0,1.0,0.0,0.0,0.0
+visual arts,54.0,1.0,0.0,0.0,0.0
+cinematography,54.0,1.0,0.0,0.0,0.0
+filmmaking,54.0,1.0,0.0,0.0,0.0
+color,54.0,1.0,0.0,0.0,0.0
+board game,54.0,1.0,0.0,0.0,0.0
+tabletop game,54.0,1.0,0.0,0.0,0.0
+formal language,54.0,1.0,0.0,0.0,0.0
+artificial language,54.0,1.0,0.0,0.0,0.0
+off-side rule language,54.0,1.0,0.0,0.0,0.0
+computer language,54.0,1.0,0.0,0.0,0.0
+administrative territorial entity of Nebraska,54.0,1.0,0.0,0.0,0.0
+television film,54.0,1.0,0.0,0.0,0.0
+cultural artifact,54.0,1.0,0.0,0.0,0.0
+baryonic matter,54.0,1.0,0.0,0.0,0.0
+public land,54.0,1.0,0.0,0.0,0.0
+federal lands,54.0,1.0,0.0,0.0,0.0
+United States National Forest,54.0,1.0,0.0,0.0,0.0
+mammal,54.0,1.0,0.0,0.0,0.0
+county of Australia,54.0,1.0,0.0,0.0,0.0
+science award,54.0,1.0,0.0,0.0,0.0
+medal,54.0,1.0,0.0,0.0,0.0
+incentive,54.0,1.0,0.0,0.0,0.0
+monetary value,54.0,1.0,0.0,0.0,0.0
+value,54.0,1.0,0.0,0.0,0.0
+principle,54.0,1.0,0.0,0.0,0.0
+title,54.0,1.0,0.0,0.0,0.0
+class of award,54.0,1.0,0.0,0.0,0.0
+sculpture material,54.0,1.0,0.0,0.0,0.0
+ordinary matter,54.0,1.0,0.0,0.0,0.0
+material substance,54.0,1.0,0.0,0.0,0.0
+physical substance,54.0,1.0,0.0,0.0,0.0
+common matter,54.0,1.0,0.0,0.0,0.0
+matter,54.0,1.0,0.0,0.0,0.0
+formal system,54.0,1.0,0.0,0.0,0.0
+programming language,54.0,1.0,0.0,0.0,0.0
+picture clock,54.0,1.0,0.0,0.0,0.0
+Bach cantata,54.0,1.0,0.0,0.0,0.0
+church building,54.0,1.0,0.0,0.0,0.0
+religious object,54.0,1.0,0.0,0.0,0.0
+religious building,54.0,1.0,0.0,0.0,0.0
+sacred architecture,54.0,1.0,0.0,0.0,0.0
+ceremonial object,54.0,1.0,0.0,0.0,0.0
+drive-in theater,54.0,1.0,0.0,0.0,0.0
+tennis venue,54.0,1.0,0.0,0.0,0.0
+city or town in Tolkien's legendarium,54.0,1.0,0.0,0.0,0.0
+fictional squirrel,54.0,1.0,0.0,0.0,0.0
+first-level administrative country subdivision,54.0,1.0,0.0,0.0,0.0
+county of Sweden,54.0,1.0,0.0,0.0,0.0
+administrative territorial entity of Ethiopia,54.0,1.0,0.0,0.0,0.0
+artificial landform,54.0,1.0,0.0,0.0,0.0
+flood defense,54.0,1.0,0.0,0.0,0.0
+unorganized territory,54.0,1.0,0.0,0.0,0.0
+archaeological find,54.0,1.0,0.0,0.0,0.0
+earthwork,54.0,1.0,0.0,0.0,0.0
+earthworks,54.0,1.0,0.0,0.0,0.0
+mound,54.0,1.0,0.0,0.0,0.0
+place of worship,54.0,1.0,0.0,0.0,0.0
+independent school district,54.0,1.0,0.0,0.0,0.0
+law firm,54.0,1.0,0.0,0.0,0.0
+administrative territorial entity of Colombia,54.0,1.0,0.0,0.0,0.0
+oil spill,54.0,1.0,0.0,0.0,0.0
+cultural landscape,54.0,1.0,0.0,0.0,0.0
+cultural environment,54.0,1.0,0.0,0.0,0.0
+utensil,54.0,1.0,0.0,0.0,0.0
+kitchenware,54.0,1.0,0.0,0.0,0.0
+culinary equipment,54.0,1.0,0.0,0.0,0.0
+municipio,54.0,1.0,0.0,0.0,0.0
+municipality of Colombia,54.0,1.0,0.0,0.0,0.0
+fiction film,54.0,1.0,0.0,0.0,0.0
+religious school,54.0,1.0,0.0,0.0,0.0
+film genre,54.0,1.0,0.0,0.0,0.0
+language family,54.0,1.0,0.0,0.0,0.0
+National Scenic Area,54.0,1.0,0.0,0.0,0.0
+former building or structure,54.0,1.0,0.0,0.0,0.0
+county-equivalent,54.0,1.0,0.0,0.0,0.0
+independent city,54.0,1.0,0.0,0.0,0.0
+independent city,54.0,1.0,0.0,0.0,0.0
+Catholic school,54.0,1.0,0.0,0.0,0.0
+entertainment software,54.0,1.0,0.0,0.0,0.0
+fourth-level administrative country subdivision,54.0,1.0,0.0,0.0,0.0
+recreative work,54.0,1.0,0.0,0.0,0.0
+depression,53.0,1.0,1.0,0.0,0.0
+cultural institution,54.0,1.0,0.0,0.0,0.0
+depository library,54.0,1.0,0.0,0.0,0.0
+library,53.0,1.0,1.0,0.0,0.0
+evaluation,52.0,1.0,2.0,0.0,0.0
+value indicator,53.0,1.0,1.0,0.0,0.0
+scientific journal,53.0,1.0,1.0,0.0,0.0
+crater,54.0,1.0,0.0,0.0,0.0
+biological region,54.0,1.0,0.0,0.0,0.0
+Mars crater,54.0,1.0,0.0,0.0,0.0
+musical ensemble,54.0,1.0,0.0,0.0,0.0
+band,54.0,1.0,0.0,0.0,0.0
+music organisation,54.0,1.0,0.0,0.0,0.0
+district,54.0,1.0,0.0,0.0,0.0
+female given name,54.0,1.0,0.0,0.0,0.0
+natural history museum,54.0,1.0,0.0,0.0,0.0
+history museum,54.0,1.0,0.0,0.0,0.0
+memory institution,54.0,1.0,0.0,0.0,0.0
+GLAM,54.0,1.0,0.0,0.0,0.0
+International airport,54.0,1.0,0.0,0.0,0.0
+relation,54.0,1.0,0.0,0.0,0.0
+sources of law,54.0,1.0,0.0,0.0,0.0
+law,54.0,1.0,0.0,0.0,0.0
+accord,54.0,1.0,0.0,0.0,0.0
+legal instrument,54.0,1.0,0.0,0.0,0.0
+treaty,54.0,1.0,0.0,0.0,0.0
+exhibition,54.0,1.0,0.0,0.0,0.0
+public research university,54.0,1.0,0.0,0.0,0.0
+visual artwork,54.0,1.0,0.0,0.0,0.0
+the arts,54.0,1.0,0.0,0.0,0.0
+creativity,54.0,1.0,0.0,0.0,0.0
+specialty,54.0,1.0,0.0,0.0,0.0
+biomolecular structure,54.0,1.0,0.0,0.0,0.0
+gene,54.0,1.0,0.0,0.0,0.0
+American football team,53.0,1.0,1.0,0.0,0.0
+character that may be fictional,54.0,1.0,0.0,0.0,0.0
+social issue,54.0,1.0,0.0,0.0,0.0
+cause of death,54.0,1.0,0.0,0.0,0.0
+commune of France,54.0,1.0,0.0,0.0,0.0
+feature,54.0,1.0,0.0,0.0,0.0
+SI derived unit,54.0,1.0,0.0,0.0,0.0
+human who may be fictional,54.0,1.0,0.0,0.0,0.0
+person,54.0,1.0,0.0,0.0,0.0
+nucleic acid sequence,54.0,1.0,0.0,0.0,0.0
+lunar crater,54.0,1.0,0.0,0.0,0.0
+ship,54.0,1.0,0.0,0.0,0.0
+watercraft type,54.0,1.0,0.0,0.0,0.0
+ship type,54.0,1.0,0.0,0.0,0.0
+heavy cruiser,54.0,1.0,0.0,0.0,0.0
+parish of New South Wales,54.0,1.0,0.0,0.0,0.0
+causality,54.0,1.0,0.0,0.0,0.0
+natural phenomenon,54.0,1.0,0.0,0.0,0.0
+military building,54.0,1.0,0.0,0.0,0.0
+military equipment,54.0,1.0,0.0,0.0,0.0
+entertainment,54.0,1.0,0.0,0.0,0.0
+scientific organisation,54.0,1.0,0.0,0.0,0.0
+research institute,54.0,1.0,0.0,0.0,0.0
+astronomical observatory,54.0,1.0,0.0,0.0,0.0
+Esperanto organization,54.0,1.0,0.0,0.0,0.0
+biotope,54.0,1.0,0.0,0.0,0.0
+FFH-Habitat,54.0,1.0,0.0,0.0,0.0
+habitat,54.0,1.0,0.0,0.0,0.0
+reef,54.0,1.0,0.0,0.0,0.0
+fourth-level administrative division in Indonesia,54.0,1.0,0.0,0.0,0.0
+administrative territorial entity of Indonesia,54.0,1.0,0.0,0.0,0.0
+protein,53.0,1.0,1.0,0.0,0.0
+group or class of chemical substances,54.0,1.0,0.0,0.0,0.0
+music theory,54.0,1.0,0.0,0.0,0.0
+sans-serif typeface,54.0,1.0,0.0,0.0,0.0
+typeface,54.0,1.0,0.0,0.0,0.0
+township of Iowa,54.0,1.0,0.0,0.0,0.0
+residential building,54.0,1.0,0.0,0.0,0.0
+gas-fired power station,54.0,1.0,0.0,0.0,0.0
+power station,54.0,1.0,0.0,0.0,0.0
+social organism behavior,54.0,1.0,0.0,0.0,0.0
+behavior,54.0,1.0,0.0,0.0,0.0
+neighborhood,54.0,1.0,0.0,0.0,0.0
+high school,54.0,1.0,0.0,0.0,0.0
+administrative territorial entity of New York,54.0,1.0,0.0,0.0,0.0
+fourth-class city,54.0,1.0,0.0,0.0,0.0
+permanent establishment,54.0,1.0,0.0,0.0,0.0
+former village,54.0,1.0,0.0,0.0,0.0
+serial,54.0,1.0,0.0,0.0,0.0
+intangible good,54.0,1.0,0.0,0.0,0.0
+audiovisual work,54.0,1.0,0.0,0.0,0.0
+lake,54.0,1.0,0.0,0.0,0.0
+Wikimedia internal item,54.0,1.0,0.0,0.0,0.0
+Wikimedia page outside the main knowledge tree,54.0,1.0,0.0,0.0,0.0
+animated character,54.0,1.0,0.0,0.0,0.0
+illuminated manuscript,54.0,1.0,0.0,0.0,0.0
+request stop,54.0,1.0,0.0,0.0,0.0
+railway halt,54.0,1.0,0.0,0.0,0.0
+text,54.0,1.0,0.0,0.0,0.0
+non-fiction,54.0,1.0,0.0,0.0,0.0
+headland,54.0,1.0,0.0,0.0,0.0
+promontory,54.0,1.0,0.0,0.0,0.0
+trail map,54.0,1.0,0.0,0.0,0.0
+first-order metaclass,54.0,1.0,0.0,0.0,0.0
+(meta)class,54.0,1.0,0.0,0.0,0.0
+water trail,54.0,1.0,0.0,0.0,0.0
+perceptible object,1.0,1.0,6.0,6.0,41.0
+class,0.0,1.0,0.0,5.0,49.0
+noble family,51.0,1.0,2.0,1.0,0.0
+station located underground,54.0,1.0,0.0,0.0,0.0
+subterranea,54.0,1.0,0.0,0.0,0.0
+magazine,52.0,1.0,1.0,1.0,0.0
+administrative territorial entity of Switzerland,54.0,1.0,0.0,0.0,0.0
+municipality of Switzerland,54.0,1.0,0.0,0.0,0.0
+city of Switzerland,54.0,1.0,0.0,0.0,0.0
+scholarly publication,54.0,1.0,0.0,0.0,0.0
+movie theater,54.0,1.0,0.0,0.0,0.0
+hydraulic structure,54.0,1.0,0.0,0.0,0.0
+dam,54.0,1.0,0.0,0.0,0.0
+archaeological site,54.0,1.0,0.0,0.0,0.0
+terrain,54.0,1.0,0.0,0.0,0.0
+find spot,54.0,1.0,0.0,0.0,0.0
+arena,54.0,1.0,0.0,0.0,0.0
+event venue,54.0,1.0,0.0,0.0,0.0
+storage,54.0,1.0,0.0,0.0,0.0
+tower,52.0,1.0,1.0,1.0,0.0
+symmetric function,52.0,1.0,1.0,1.0,0.0
+metro station,54.0,1.0,0.0,0.0,0.0
+formalization,52.0,1.0,1.0,1.0,0.0
+data,54.0,1.0,0.0,0.0,0.0
+magnitude,54.0,1.0,0.0,0.0,0.0
+tensor,54.0,1.0,0.0,0.0,0.0
+function,54.0,1.0,0.0,0.0,0.0
+state park of the United States,54.0,1.0,0.0,0.0,0.0
+cadastral division,54.0,1.0,0.0,0.0,0.0
+station located on surface,54.0,1.0,0.0,0.0,0.0
+New England town,54.0,1.0,0.0,0.0,0.0
+ridge,54.0,1.0,0.0,0.0,0.0
+sierra,54.0,1.0,0.0,0.0,0.0
+motion,54.0,1.0,0.0,0.0,0.0
+recurring,54.0,1.0,0.0,0.0,0.0
+Wikinews article,54.0,1.0,0.0,0.0,0.0
+lands administrative division of New South Wales,54.0,1.0,0.0,0.0,0.0
+place with town rights and privileges,54.0,1.0,0.0,0.0,0.0
+county of Missouri,54.0,1.0,0.0,0.0,0.0
+mode of transport,54.0,1.0,0.0,0.0,0.0
+fictional species,53.0,1.0,0.0,1.0,0.0
+land vehicle,54.0,1.0,0.0,0.0,0.0
+rolling stock,54.0,1.0,0.0,0.0,0.0
+means,54.0,1.0,0.0,0.0,0.0
+railway traction vehicle,54.0,1.0,0.0,0.0,0.0
+finished good,54.0,1.0,0.0,0.0,0.0
+rail guided transport,54.0,1.0,0.0,0.0,0.0
+sensemaking,54.0,1.0,0.0,0.0,0.0
+rail transport,54.0,1.0,0.0,0.0,0.0
+converter,54.0,1.0,0.0,0.0,0.0
+tool,54.0,1.0,0.0,0.0,0.0
+land transport,54.0,1.0,0.0,0.0,0.0
+locomotive,54.0,1.0,0.0,0.0,0.0
+definition,54.0,1.0,0.0,0.0,0.0
+television character,54.0,1.0,0.0,0.0,0.0
+fictional taxon,54.0,1.0,0.0,0.0,0.0
+administrative territorial entity of Virginia,54.0,1.0,0.0,0.0,0.0
+county of Virginia,54.0,1.0,0.0,0.0,0.0
+administrative territorial entity of Missouri,54.0,1.0,0.0,0.0,0.0
+county of Pennsylvania,54.0,1.0,0.0,0.0,0.0
+county of Maryland,54.0,1.0,0.0,0.0,0.0
+paddle steamer,54.0,1.0,0.0,0.0,0.0
+print,54.0,1.0,0.0,0.0,0.0
+engineering,54.0,1.0,0.0,0.0,0.0
+Tasmanian Legislative Council electoral division,54.0,1.0,0.0,0.0,0.0
+Constituency of the Parliament of England,54.0,1.0,0.0,0.0,0.0
+constituency of the House of Commons,54.0,1.0,0.0,0.0,0.0
+single-member district,54.0,1.0,0.0,0.0,0.0
+mobile network operator,54.0,1.0,0.0,0.0,0.0
+type of business entity,54.0,1.0,0.0,0.0,0.0
+legal form,54.0,1.0,0.0,0.0,0.0
+description,54.0,1.0,0.0,0.0,0.0
+connect,54.0,1.0,0.0,0.0,0.0
+Japanese TV series,54.0,1.0,0.0,0.0,0.0
+public transport authority,54.0,1.0,0.0,0.0,0.0
+lighthouse,54.0,1.0,0.0,0.0,0.0
+museum of culture,54.0,1.0,0.0,0.0,0.0
+radio station,54.0,1.0,0.0,0.0,0.0
+broadcaster,54.0,1.0,0.0,0.0,0.0
+shoal,54.0,1.0,0.0,0.0,0.0
+outdoor concert venue,54.0,1.0,0.0,0.0,0.0
+archetype,54.0,1.0,0.0,0.0,0.0
+addition,54.0,1.0,0.0,0.0,0.0
+fictional event,54.0,1.0,0.0,0.0,0.0
+literary archetype,54.0,1.0,0.0,0.0,0.0
+supervillain,54.0,1.0,0.0,0.0,0.0
+variable-order metaclass,54.0,1.0,0.0,0.0,0.0
+game,54.0,1.0,0.0,0.0,0.0
+application,54.0,1.0,0.0,0.0,0.0
+navigational aid,54.0,1.0,0.0,0.0,0.0
+mark,53.0,1.0,1.0,0.0,0.0
+street,54.0,1.0,0.0,0.0,0.0
+road,54.0,1.0,0.0,0.0,0.0
+township of Pennsylvania,54.0,1.0,0.0,0.0,0.0
+protected area of Canada,54.0,1.0,0.0,0.0,0.0
+tunnel,54.0,1.0,0.0,0.0,0.0
+international tunnel,54.0,1.0,0.0,0.0,0.0
+transborder structure,54.0,1.0,0.0,0.0,0.0
+township of Ohio,54.0,1.0,0.0,0.0,0.0
+combat,54.0,1.0,0.0,0.0,0.0
+battle,54.0,1.0,0.0,0.0,0.0
+waterfall,54.0,1.0,0.0,0.0,0.0
+fictional animal character,54.0,1.0,0.0,0.0,0.0
+electoral district of Canada,54.0,1.0,0.0,0.0,0.0
+federal electoral district of Canada,54.0,1.0,0.0,0.0,0.0
+theatrical character,54.0,1.0,0.0,0.0,0.0
+manga,54.0,1.0,0.0,0.0,0.0
+fictional city,54.0,1.0,0.0,0.0,0.0
+Wissenschaft,54.0,1.0,0.0,0.0,0.0
+farm,54.0,1.0,0.0,0.0,0.0
+administrative building,54.0,1.0,0.0,0.0,0.0
+building of public administration,54.0,1.0,0.0,0.0,0.0
+local education agency,53.0,1.0,1.0,0.0,0.0
+special-purpose district of the United States,54.0,1.0,0.0,0.0,0.0
+government agency,54.0,1.0,0.0,0.0,0.0
+school district in the United States,54.0,1.0,0.0,0.0,0.0
+public authority,54.0,1.0,0.0,0.0,0.0
+public body,54.0,1.0,0.0,0.0,0.0
+homestead,54.0,1.0,0.0,0.0,0.0
+farming business,54.0,1.0,0.0,0.0,0.0
+plantation,54.0,1.0,0.0,0.0,0.0
+group of structures or buildings,54.0,1.0,0.0,0.0,0.0
+ensemble,54.0,1.0,0.0,0.0,0.0
+stream,54.0,1.0,0.0,0.0,0.0
+Carnegie library,54.0,1.0,0.0,0.0,0.0
+sculpture,54.0,1.0,0.0,0.0,0.0
+geological massif,54.0,1.0,0.0,0.0,0.0
+township of Michigan,54.0,1.0,0.0,0.0,0.0
+fictional analog of a type of organism,54.0,1.0,0.0,0.0,0.0
+class of fictional entities,54.0,1.0,0.0,0.0,0.0
+chemical compound,54.0,1.0,0.0,0.0,0.0
+workplace,52.0,1.0,2.0,0.0,0.0
+township of New Jersey,52.0,1.0,2.0,0.0,0.0
+academic institution,54.0,1.0,0.0,0.0,0.0
+university,54.0,1.0,0.0,0.0,0.0
+specialized educational institution,54.0,1.0,0.0,0.0,0.0
+private educational institution,54.0,1.0,0.0,0.0,0.0
+baseball team,54.0,1.0,0.0,0.0,0.0
+civic building,54.0,1.0,0.0,0.0,0.0
+county of South Dakota,54.0,1.0,0.0,0.0,0.0
+performing arts genre,54.0,1.0,0.0,0.0,0.0
+applied science,54.0,1.0,0.0,0.0,0.0
+mobile telecommunication technology,54.0,1.0,0.0,0.0,0.0
+telecommunication technology,54.0,1.0,0.0,0.0,0.0
+technology,54.0,1.0,0.0,0.0,0.0
+economic branch,54.0,1.0,0.0,0.0,0.0
+cell line,54.0,1.0,0.0,0.0,0.0
+artist,54.0,1.0,0.0,0.0,0.0
+actor,54.0,1.0,0.0,0.0,0.0
+individual animal,54.0,1.0,0.0,0.0,0.0
+dog,54.0,1.0,0.0,0.0,0.0
+town of Connecticut,53.0,1.0,1.0,0.0,0.0
+land-grant university,53.0,1.0,1.0,0.0,0.0
+colleges and universities in the United States,53.0,1.0,1.0,0.0,0.0
+state or insular area capital in the United States,54.0,1.0,0.0,0.0,0.0
+library building,54.0,1.0,0.0,0.0,0.0
+mobile phone standard,54.0,1.0,0.0,0.0,0.0
+concrete object,0.0,0.0,0.0,0.0,55.0
+organization,0.0,0.0,2.0,3.0,50.0
+artificial geographic entity,0.0,0.0,1.0,0.0,54.0
+cycling team season,54.0,0.0,1.0,0.0,0.0
+object,0.0,0.0,0.0,1.0,54.0
+agent,0.0,0.0,2.0,2.0,51.0
+individual,0.0,0.0,2.0,2.0,51.0
+impact crater,54.0,0.0,1.0,0.0,0.0
+structure,0.0,0.0,2.0,0.0,53.0
+object,0.0,0.0,2.0,0.0,53.0
+system,0.0,0.0,2.0,3.0,50.0
+group of physical objects,0.0,0.0,2.0,0.0,53.0
+structure,0.0,0.0,1.0,1.0,53.0
+abstract object,0.0,0.0,0.0,1.0,54.0
+artificial physical object,0.0,0.0,0.0,1.0,54.0
+base material,54.0,0.0,1.0,0.0,0.0
+physical object,0.0,0.0,0.0,0.0,55.0
+diocese of the Catholic Church,54.0,0.0,1.0,0.0,0.0
+group,0.0,0.0,2.0,0.0,53.0
+administrative territorial entity,0.0,0.0,3.0,3.0,49.0
+territorial entity,0.0,0.0,1.0,1.0,53.0
+human-geographic territorial entity,0.0,0.0,2.0,4.0,49.0
+administrative territorial entity of a single country,0.0,0.0,3.0,3.0,49.0
+artificial entity,0.0,0.0,0.0,0.0,55.0
+geographic entity,0.0,0.0,0.0,0.0,55.0
+entity,0.0,0.0,0.0,0.0,55.0
+literary element,54.0,0.0,1.0,0.0,0.0
+group of living things,0.0,0.0,2.0,0.0,53.0
+spacio-temporal entity,0.0,0.0,0.0,0.0,55.0
+spatial entity,0.0,0.0,0.0,0.0,55.0
+geographical object,0.0,0.0,1.0,0.0,54.0
+geographic region,0.0,0.0,1.0,1.0,53.0
+administrative territorial entity of the United States,0.0,0.0,3.0,5.0,47.0
+group of humans,0.0,0.0,2.0,0.0,53.0
+private university,54.0,0.0,1.0,0.0,0.0
+rank of an order,54.0,0.0,1.0,0.0,0.0
+information,1.0,0.0,9.0,13.0,32.0
+literary genre,54.0,0.0,0.0,0.0,1.0
+light source,54.0,0.0,1.0,0.0,0.0
+mental process,54.0,0.0,0.0,0.0,1.0
+art,54.0,0.0,0.0,0.0,1.0
+Language arts,54.0,0.0,0.0,0.0,1.0
+play,54.0,0.0,0.0,0.0,1.0
+freely redistributable software,54.0,0.0,0.0,0.0,1.0
+ice hockey team,54.0,0.0,1.0,0.0,0.0
+company,54.0,0.0,0.0,0.0,1.0
+process engineering,54.0,0.0,1.0,0.0,0.0
+unisex given name,54.0,0.0,1.0,0.0,0.0
+art material,54.0,0.0,1.0,0.0,0.0
+borough of New Jersey,54.0,0.0,1.0,0.0,0.0
+government building,54.0,0.0,1.0,0.0,0.0
+state capital,54.0,0.0,1.0,0.0,0.0
+humanities,54.0,0.0,0.0,0.0,1.0
+signal towers (elevated structures),54.0,0.0,1.0,0.0,0.0
+cost,53.0,0.0,1.0,1.0,0.0
+literature,54.0,0.0,0.0,0.0,1.0
+free software,54.0,0.0,0.0,0.0,1.0
+rank,54.0,0.0,1.0,0.0,0.0
+rank,54.0,0.0,1.0,0.0,0.0
+measurement technique,53.0,0.0,2.0,0.0,0.0
+short film,53.0,0.0,2.0,0.0,0.0
+bounty,54.0,0.0,1.0,0.0,0.0
+public library,54.0,0.0,1.0,0.0,0.0
+airport,54.0,0.0,1.0,0.0,0.0
+award,54.0,0.0,1.0,0.0,0.0
+expenditure,54.0,0.0,1.0,0.0,0.0
+stimulus,54.0,0.0,1.0,0.0,0.0
+series,54.0,0.0,0.0,0.0,1.0
+consolidated city-county,54.0,0.0,0.0,0.0,1.0
+soil type,54.0,0.0,1.0,0.0,0.0
