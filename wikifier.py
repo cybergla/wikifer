@@ -22,6 +22,9 @@ class Wikifier():
         df.to_csv(file_path)
 
     def get_instances(self, qids):
+        """
+        Gets instance of proprety of all qnodes in list. Returns dict of qnode:instance_of
+        """
         qids = " ".join(["(wd:{})".format(q) for q in qids])
         sparql.setQuery("select distinct ?item ?class where {{ VALUES (?item) {{ {} }} ?item wdt:P31 ?class .}}".format(qids))
         sparql.setReturnFormat(JSON)
@@ -57,12 +60,18 @@ class Wikifier():
         return qnodes
 
     def get_all_qnodes(self):
+        """
+        Gets qnodes of all items
+        """
         self.qnodes = {}
         for item in tqdm(self.items):
             self.qnodes[item] = self.get_qnodes(item)
         return self.qnodes
 
     def get_wiki_df(self):
+        """
+        Construct the wikified df
+        """
         self.wiki = pd.DataFrame()
         for item in tqdm(self.items):
             instances = self.get_instances(self.qnodes[item])
@@ -86,6 +95,9 @@ class Wikifier():
         return self.wiki
 
     def get_histogram(self):
+        """
+        Caluclate subtotals and histogram
+        """
         self.subtotals = self.wiki.groupby('items').sum()
         self.his = pd.DataFrame()
         cols=["0","1","2","3",">4"]
@@ -101,6 +113,9 @@ class Wikifier():
         return self.his
     
     def get_name(self, qids):
+        """
+        Get labels of list of qnodes (max 50)
+        """
         url = "https://www.wikidata.org/w/api.php"
         params = {
             "action":"wbgetentities",
@@ -120,6 +135,9 @@ class Wikifier():
         return name
     
     def get_names(self, qids):
+        """
+        Get labels for lists > 50 by sending requests in batches.
+        """
         names = {}
         last = 0
         print("Retreiving names")
@@ -130,6 +148,9 @@ class Wikifier():
         return names
 
     def get_result(self):
+        """
+        Get the final results.
+        """
         self.result = self.his[['1','name']][:self.top_n]
         self.result = pd.DataFrame(self.result)
         self.result = self.result.rename({'1':'confidence'}, axis='columns')
@@ -138,6 +159,9 @@ class Wikifier():
         return self.result
 
     def wikify(self):
+        """
+        Main function to run everything together.
+        """
         print("Retrieving all qnodes")
         self.get_all_qnodes()
         print("Building wikified data")

@@ -9,7 +9,7 @@ df = pd.read_csv("wd-classes-min-5-instances.csv")
 sparql = SPARQLWrapper("https://query.wikidata.org/sparql")
 db = SqliteDatabase("graph.db")
 
-
+# DB Models
 class BaseModel(Model):
     class Meta:
         database = db
