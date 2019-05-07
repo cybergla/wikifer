@@ -1,0 +1,6 @@
+peewee==3.9.3
+tqdm==4.29.0
+numpy==1.15.2
+pandas==0.22.0
+requests==2.20.0
+SPARQLWrapper==1.8.4
