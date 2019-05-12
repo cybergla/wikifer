@@ -2,6 +2,7 @@ import pandas as pd
 import numpy as np
 import requests
 import os
+import json
 
 from tqdm import tqdm
 from SPARQLWrapper import SPARQLWrapper, JSON
@@ -157,6 +158,13 @@ class Wikifier():
         self.result['confidence'] *= 100
         self.result.index.name = "class"
         return self.result
+    
+    def build_wiki_json(self):
+        idx = self.wiki.index.values.tolist()
+        self.wiki_map = {k:[] for k in self.items}
+        for k,v in idx:
+            self.wiki_map[k].append(v)
+        return self.wiki_map
 
     def wikify(self):
         """
@@ -174,5 +182,8 @@ class Wikifier():
         print("Result")
         print(self.get_result())
         self.to_csv(self.result, "candidates.csv")
+        print("Wikimap")
+        self.build_wiki_json()
+        json.dump(self.wiki_map, open(os.path.join(self.path, "wiki_map.json"), 'w+'))
 
 
